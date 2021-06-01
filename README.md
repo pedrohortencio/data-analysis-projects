@@ -10,7 +10,8 @@ Minor projects of data analysis, especially exploratory data analysis (EDA).
   * [Data](#data)
 - [:memo: World Happiness Report](#smile-world-happiness-report)
   * [Data](#data-1)
-
+<br>
+</br>
 
 ## :oncoming_automobile: NYC Parking Violations 
 
