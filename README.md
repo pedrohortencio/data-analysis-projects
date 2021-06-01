@@ -6,9 +6,9 @@ Minor projects of data analysis, especially exploratory data analysis (EDA).
 
 # TOC
 
-- [:parking: NYC Parking Violations](#nyc-parking-violations)
+- [:parking: NYC Parking Violations](#oncoming_automobile-nyc-parking-violations)
   * [Data](#data)
-- [:memo: World Happiness Report](#world-happiness-report)
+- [:memo: World Happiness Report](#smile-world-happiness-report)
   * [Data](#data-1)
 
 
